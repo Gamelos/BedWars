@@ -1,0 +1,11 @@
+name: Bedwars
+author: Gamelos
+version: 1.0
+
+main: de.gamelos.bedwars.Main
+
+commands:
+  bw:
+  promote:
+  stats:
+  start:
